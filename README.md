@@ -42,3 +42,4 @@
 ## Disadvantages
 - Over usage
 - Clean up design pattern# Design-pattern-example-part2
+# Design-pattern-examples-part2
